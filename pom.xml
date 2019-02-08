@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>org.bytedeco.javacv</groupId>
+    <artifactId>demo</artifactId>
+    <version>1.1</version>
+    <dependencies>
+        <dependency>
+            <groupId>org.bytedeco</groupId>
+            <artifactId>javacv</artifactId>
+            <version>1.1</version>
+        </dependency>
+    </dependencies>
+</project>
