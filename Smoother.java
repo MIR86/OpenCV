@@ -7,7 +7,7 @@ package tp_javacv;
 
 /**
  *
- * @author Vincent-ROG
+ * @author Vladimir Voronitski
  */
 import static org.bytedeco.javacpp.opencv_core.*;
 import static org.bytedeco.javacpp.opencv_imgproc.*;
