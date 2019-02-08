@@ -19,7 +19,7 @@ import static org.bytedeco.javacpp.opencv_objdetect.*;
 
 /**
  *
- * @author Vincent-ROG
+ * @author Vladimir_Voronitski
  */
 public class MakeImages {
 
